@@ -1,0 +1,16 @@
+.allure
+.idea
+.setting
+.settings
+outputs
+target
+test-output
+/.classpath
+/.DS_Store
+bin
+build
+/*.log
+/.project
+/.factorypath
+.classpath
+
